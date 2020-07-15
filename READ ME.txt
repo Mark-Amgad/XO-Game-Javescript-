@@ -1,0 +1,1 @@
+it's a simple XO game ,it was designed to make the best possible move.
